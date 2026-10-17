@@ -121,7 +121,7 @@ Its meaning needs checking.</p>
 
   <div class="project-close">
     <p>Follow the analysis, methods, and reproducibility notes.</p>
-    <a class="button-link" href="https://github.com/mobbbs/data-science-project">View project on GitHub <span aria-hidden="true">↗</span></a>
+    <a class="button-link" href="https://github.com/rachelHuYx/data-science-project">View project on GitHub <span aria-hidden="true">↗</span></a>
   </div>
 </article>
 
@@ -132,6 +132,6 @@ Its meaning needs checking.</p>
 <em>More useful questions.</em></h2>
     <p>Next, I plan to verify the date-field definitions, review the records flagged by the comparison, and obtain collection or patrol-effort context if it is available.</p>
     <p>Alongside that work, I want to improve my Python workflow and add future projects with clear questions, reproducible steps, and limitations stated alongside the findings.</p>
-    <a class="text-link" href="https://github.com/mobbbs">Follow my learning on GitHub <span aria-hidden="true">↗</span></a>
+    <a class="text-link" href="https://github.com/rachelHuYx">Follow my learning on GitHub <span aria-hidden="true">↗</span></a>
   </div>
 </section>

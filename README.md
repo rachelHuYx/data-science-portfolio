@@ -2,9 +2,9 @@
 
 A personal learning portfolio for **CISC7204**, by **HU JIAYI**. It presents one completed exploratory analysis and the methods, findings, limitations, and next questions behind it.
 
-- Portfolio repository: [mobbbs/data-science-portfolio](https://github.com/mobbbs/data-science-portfolio)
-- Expected GitHub Pages address: [mobbbs.github.io/data-science-portfolio](https://mobbbs.github.io/data-science-portfolio/)
-- Analysis repository: [mobbbs/data-science-project](https://github.com/mobbbs/data-science-project)
+- Portfolio repository: [rachelHuYx/data-science-portfolio](https://github.com/rachelHuYx/data-science-portfolio)
+- Expected GitHub Pages address: [rachelHuYx.github.io/data-science-portfolio](https://rachelHuYx.github.io/data-science-portfolio/)
+- Analysis repository: [rachelHuYx/data-science-project](https://github.com/rachelHuYx/data-science-project)
 
 The expected website address above is the configured target. A successful Pages build and a browser check are needed to confirm publication.
 
@@ -23,7 +23,7 @@ assets/images/date_consistency.png
 
 ## Publish from `main` / root
 
-1. Push this source and both chart images to the **`main`** branch of `mobbbs/data-science-portfolio`.
+1. Push this source and both chart images to the **`main`** branch of `rachelHuYx/data-science-portfolio`.
 2. Open the repository's **Settings → Pages**.
 3. Under **Build and deployment**, select **Deploy from a branch** as the source.
 4. Select branch **`main`** and folder **`/ (root)`**, then save.
