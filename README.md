@@ -3,10 +3,10 @@
 A personal learning portfolio for **CISC7204**, by **HU JIAYI**. It presents one completed exploratory analysis and the methods, findings, limitations, and next questions behind it.
 
 - Portfolio repository: [rachelHuYx/data-science-portfolio](https://github.com/rachelHuYx/data-science-portfolio)
-- Expected GitHub Pages address: [rachelHuYx.github.io/data-science-portfolio](https://rachelHuYx.github.io/data-science-portfolio/)
+- Live GitHub Pages website: [rachelHuYx.github.io/data-science-portfolio](https://rachelHuYx.github.io/data-science-portfolio/)
 - Analysis repository: [rachelHuYx/data-science-project](https://github.com/rachelHuYx/data-science-project)
 
-The expected website address above is the configured target. A successful Pages build and a browser check are needed to confirm publication.
+Published with GitHub Pages from **`main` / `/ (root)`**. The public home page, both figures, project links, and mobile/desktop layouts were verified in Google Chrome on 17 October 2026. Public chart images match the analysis outputs. Classmate review and any resulting improvement are separate next steps.
 
 ## Website entry point
 
